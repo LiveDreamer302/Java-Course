@@ -1,2 +1,4 @@
-package angelwing;public class Main {
+package angelwing;
+
+public class Main {
 }
